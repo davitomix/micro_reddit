@@ -30,4 +30,4 @@ If the test suite passes, you'll be ready to run the app in a local server:
 $ rails server
 ```
 Collaborator & profile link:
-- David Eli - [@davitomix](https://github.com/davitomix)
+- David Eli - @davitomix  [GitHub](https://github.com/davitomix)
