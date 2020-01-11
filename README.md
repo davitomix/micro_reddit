@@ -1,7 +1,7 @@
 # Project: Building With Active Record (Micro-Reddit)
 
 This is the micro-reddit app from the RoR tutorial on The Odin Project
-
+Hi
 Checkout the full assignment description on [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails#project-2-micro-reddit)
 
 ## Getting started
