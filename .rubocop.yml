@@ -8,8 +8,8 @@ AllCops:
     - "Gemfile"
   DisplayCopNames: true
 
-#Metrics/LineLength:
 Layout/LineLength:
+#Metrics/LineLength:
   Max: 120
 Metrics/MethodLength:
   Include: ["app/controllers/*"]
@@ -30,6 +30,7 @@ Style/FrozenStringLiteralComment:
   Enabled: false
 
 Layout/AlignHash:
+#Layout/HashAlignment:
   EnforcedColonStyle: key
 Layout/ExtraSpacing:
   AllowForAlignment: false
