@@ -22,4 +22,6 @@ test:
 
 production:
   <<: *default
-  database: db/production.sqlite3
+  database: micro_reddit_app_production
+  username: micro_reddit_app
+  password: <%= ENV['MICRO_REDDIT_APP_DATABASE_PASSWORD'] %>
