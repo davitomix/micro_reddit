@@ -1,4 +1,4 @@
-# Private Events App
+# Micro Reddit App
 
 A site similar to Reddit website which allows users to create posts and then manage user signups. Users can create posts and follow users.<br>
 
